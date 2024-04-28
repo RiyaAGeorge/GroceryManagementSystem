@@ -21,7 +21,7 @@ Installation:
 
 2. Clone this repository to your local machine.
 
-3.Open the solution file (FeelFresh.sln) in Visual Studio.
+3.Open the solution file (grocerymanagementsystem) in Visual Studio.
 
 4.Build the solution to restore packages and compile the project.
 
@@ -50,7 +50,7 @@ Register/Login: Customers can register for an account or log in using their cred
 
 Browse Products: Explore available products and add them to their shopping cart.
 
-Place Orders and make tansactions: Place orders for delivery or pickup.
+Place Orders and make transactions: Place orders for delivery or pickup.
 
 Track Orders: Track the status of their orders and view order history.
 
